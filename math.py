@@ -1,4 +1,4 @@
-#Add implementation
+#Addition implementation
 def add(x,y)
 	pass
 
